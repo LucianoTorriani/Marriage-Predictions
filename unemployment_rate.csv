@@ -1,0 +1,331 @@
+Year,Canton,unemployment
+2010,Zürich,3.66
+2010,Bern / Berne,3.54
+2010,Luzern,3.22
+2010,Uri,2.51
+2010,Schwyz,2.88
+2010,Obwalden,1.76
+2010,Nidwalden,2.43
+2010,Glarus,1.96
+2010,Zug,3.66
+2010,Fribourg / Freiburg,3.65
+2010,Solothurn,4.37
+2010,Basel-Stadt,7.04
+2010,Basel-Landschaft,3.73
+2010,Schaffhausen,4.55
+2010,Appenzell Ausserrhoden,3.65
+2010,St. Gallen,3.66
+2010,Graubünden / Grigioni / Grischun,2.5
+2010,Aargau,3.42
+2010,Thurgau,3.59
+2010,Ticino,7.26
+2010,Vaud,6.5
+2010,Valais / Wallis,3.87
+2010,Neuchâtel,7.28
+2010,Genève,9.71
+2010,Jura,5.39
+2011,Zürich,4.03
+2011,Bern / Berne,3.53
+2011,Luzern,3.19
+2011,Uri,2.63
+2011,Schwyz,3.16
+2011,Obwalden,2.1
+2011,Nidwalden,1.38
+2011,Glarus,5.05
+2011,Zug,4.15
+2011,Fribourg / Freiburg,4.82
+2011,Solothurn,4.05
+2011,Basel-Stadt,6.26
+2011,Basel-Landschaft,5.23
+2011,Schaffhausen,3.77
+2011,Appenzell Ausserrhoden,2.48
+2011,Appenzell Innerrhoden,3.17
+2011,St. Gallen,3.66
+2011,Graubünden / Grigioni / Grischun,2.53
+2011,Aargau,3.77
+2011,Thurgau,3.69
+2011,Ticino,7.6
+2011,Vaud,6.97
+2011,Valais / Wallis,4.78
+2011,Neuchâtel,6.72
+2011,Genève,10.24
+2011,Jura,4.36
+2012,Zürich,4.4
+2012,Bern / Berne,3.19
+2012,Luzern,3.09
+2012,Uri,2.66
+2012,Schwyz,3.14
+2012,Obwalden,2.29
+2012,Nidwalden,2.62
+2012,Glarus,4.22
+2012,Zug,3.86
+2012,Fribourg / Freiburg,4.95
+2012,Solothurn,4.29
+2012,Basel-Stadt,6.75
+2012,Basel-Landschaft,4.81
+2012,Schaffhausen,3.62
+2012,Appenzell Ausserrhoden,3.35
+2012,Appenzell Innerrhoden,3.92
+2012,St. Gallen,4.3
+2012,Graubünden / Grigioni / Grischun,2.9
+2012,Aargau,4.36
+2012,Thurgau,3.81
+2012,Ticino,8.0
+2012,Vaud,7.68
+2012,Valais / Wallis,5.15
+2012,Neuchâtel,7.74
+2012,Genève,10.74
+2012,Jura,5.28
+2013,Zürich,4.34
+2013,Bern / Berne,4.01
+2013,Luzern,3.1
+2013,Uri,1.87
+2013,Schwyz,2.62
+2013,Obwalden,1.12
+2013,Nidwalden,2.35
+2013,Glarus,3.85
+2013,Zug,4.16
+2013,Fribourg / Freiburg,5.62
+2013,Solothurn,4.17
+2013,Basel-Stadt,7.13
+2013,Basel-Landschaft,3.96
+2013,Schaffhausen,3.73
+2013,Appenzell Ausserrhoden,3.27
+2013,St. Gallen,4.26
+2013,Graubünden / Grigioni / Grischun,3.11
+2013,Aargau,3.95
+2013,Thurgau,3.8
+2013,Ticino,8.17
+2013,Vaud,7.35
+2013,Valais / Wallis,5.23
+2013,Neuchâtel,7.25
+2013,Genève,10.17
+2013,Jura,5.82
+2014,Zürich,4.21
+2014,Bern / Berne,3.8
+2014,Luzern,3.29
+2014,Uri,1.71
+2014,Schwyz,2.75
+2014,Obwalden,2.81
+2014,Nidwalden,1.93
+2014,Glarus,2.7
+2014,Zug,3.8
+2014,Fribourg / Freiburg,5.07
+2014,Solothurn,4.26
+2014,Basel-Stadt,5.83
+2014,Basel-Landschaft,4.92
+2014,Schaffhausen,3.89
+2014,Appenzell Ausserrhoden,2.07
+2014,St. Gallen,4.01
+2014,Graubünden / Grigioni / Grischun,2.98
+2014,Aargau,3.98
+2014,Thurgau,4.35
+2014,Ticino,7.97
+2014,Vaud,7.42
+2014,Valais / Wallis,5.42
+2014,Neuchâtel,7.49
+2014,Genève,10.21
+2014,Jura,5.91
+2015,Zürich,4.89
+2015,Bern / Berne,4.53
+2015,Luzern,3.66
+2015,Uri,1.13
+2015,Schwyz,3.55
+2015,Obwalden,2.66
+2015,Nidwalden,2.25
+2015,Glarus,3.82
+2015,Zug,4.08
+2015,Fribourg / Freiburg,5.31
+2015,Solothurn,4.62
+2015,Basel-Stadt,7.23
+2015,Basel-Landschaft,5.28
+2015,Schaffhausen,6.24
+2015,Appenzell Ausserrhoden,2.86
+2015,Appenzell Innerrhoden,2.83
+2015,St. Gallen,4.16
+2015,Graubünden / Grigioni / Grischun,2.76
+2015,Aargau,4.37
+2015,Thurgau,4.45
+2015,Ticino,7.46
+2015,Vaud,7.62
+2015,Valais / Wallis,5.96
+2015,Neuchâtel,8.34
+2015,Genève,10.85
+2015,Jura,5.86
+2016,Zürich,5.07
+2016,Bern / Berne,4.37
+2016,Luzern,3.27
+2016,Uri,1.9
+2016,Schwyz,3.46
+2016,Obwalden,3.14
+2016,Nidwalden,2.37
+2016,Glarus,4.69
+2016,Zug,4.53
+2016,Fribourg / Freiburg,5.49
+2016,Solothurn,4.91
+2016,Basel-Stadt,6.61
+2016,Basel-Landschaft,4.71
+2016,Schaffhausen,5.23
+2016,Appenzell Ausserrhoden,3.69
+2016,Appenzell Innerrhoden,3.19
+2016,St. Gallen,4.77
+2016,Graubünden / Grigioni / Grischun,2.47
+2016,Aargau,4.61
+2016,Thurgau,4.07
+2016,Ticino,7.44
+2016,Vaud,7.96
+2016,Valais / Wallis,6.15
+2016,Neuchâtel,8.83
+2016,Genève,11.21
+2016,Jura,6.68
+2017,Zürich,4.28
+2017,Bern / Berne,3.69
+2017,Luzern,3.11
+2017,Uri,1.72
+2017,Schwyz,3.56
+2017,Obwalden,3.16
+2017,Nidwalden,2.69
+2017,Glarus,4.13
+2017,Zug,3.85
+2017,Fribourg / Freiburg,5.31
+2017,Solothurn,4.39
+2017,Basel-Stadt,5.77
+2017,Basel-Landschaft,4.26
+2017,Schaffhausen,4.87
+2017,Appenzell Ausserrhoden,4.84
+2017,Appenzell Innerrhoden,3.35
+2017,St. Gallen,4.08
+2017,Graubünden / Grigioni / Grischun,2.15
+2017,Aargau,4.25
+2017,Thurgau,4.24
+2017,Ticino,7.36
+2017,Vaud,7.72
+2017,Valais / Wallis,5.29
+2017,Neuchâtel,8.42
+2017,Genève,10.71
+2017,Jura,6.05
+2018,Zürich,4.73
+2018,Bern / Berne,3.72
+2018,Luzern,3.12
+2018,Uri,1.94
+2018,Schwyz,2.33
+2018,Obwalden,2.97
+2018,Nidwalden,1.24
+2018,Glarus,2.54
+2018,Zug,4.36
+2018,Fribourg / Freiburg,5.08
+2018,Solothurn,4.05
+2018,Basel-Stadt,7.25
+2018,Basel-Landschaft,4.57
+2018,Schaffhausen,5.45
+2018,Appenzell Ausserrhoden,3.96
+2018,St. Gallen,3.57
+2018,Graubünden / Grigioni / Grischun,2.44
+2018,Aargau,4.5
+2018,Thurgau,3.75
+2018,Ticino,7.87
+2018,Vaud,7.79
+2018,Valais / Wallis,4.92
+2018,Neuchâtel,7.48
+2018,Genève,11.59
+2018,Jura,5.51
+2019,Zürich,4.74
+2019,Bern / Berne,3.85
+2019,Luzern,3.43
+2019,Uri,1.78
+2019,Schwyz,2.95
+2019,Obwalden,1.75
+2019,Nidwalden,2.78
+2019,Glarus,1.95
+2019,Zug,4.08
+2019,Fribourg / Freiburg,5.37
+2019,Solothurn,4.3
+2019,Basel-Stadt,6.43
+2019,Basel-Landschaft,4.78
+2019,Schaffhausen,4.54
+2019,Appenzell Ausserrhoden,3.45
+2019,St. Gallen,4.18
+2019,Graubünden / Grigioni / Grischun,2.05
+2019,Aargau,4.24
+2019,Thurgau,4.3
+2019,Ticino,7.86
+2019,Vaud,7.68
+2019,Valais / Wallis,5.23
+2019,Neuchâtel,8.36
+2019,Genève,10.32
+2019,Jura,6.55
+2020,Zürich,5.58
+2020,Bern / Berne,4.58
+2020,Luzern,4.21
+2020,Uri,3.67
+2020,Schwyz,3.86
+2020,Obwalden,3.36
+2020,Nidwalden,2.31
+2020,Glarus,5.13
+2020,Zug,5.06
+2020,Fribourg / Freiburg,6.3
+2020,Solothurn,4.98
+2020,Basel-Stadt,6.92
+2020,Basel-Landschaft,5.1
+2020,Schaffhausen,6.29
+2020,Appenzell Ausserrhoden,3.6
+2020,Appenzell Innerrhoden,2.17
+2020,St. Gallen,4.88
+2020,Graubünden / Grigioni / Grischun,3.16
+2020,Aargau,5.47
+2020,Thurgau,5.2
+2020,Ticino,7.91
+2020,Vaud,8.55
+2020,Valais / Wallis,6.23
+2020,Neuchâtel,9.26
+2020,Genève,13.04
+2020,Jura,7.46
+2021,Zürich,4.18
+2021,Bern / Berne,3.33
+2021,Luzern,3.22
+2021,Uri,1.72
+2021,Schwyz,2.77
+2021,Nidwalden,2.47
+2021,Glarus,3.4
+2021,Zug,3.77
+2021,Fribourg / Freiburg,5.06
+2021,Solothurn,3.89
+2021,Basel-Stadt,5.85
+2021,Basel-Landschaft,4.26
+2021,Schaffhausen,4.93
+2021,Appenzell Ausserrhoden,3.32
+2021,St. Gallen,3.89
+2021,Graubünden / Grigioni / Grischun,2.3
+2021,Aargau,4.59
+2021,Thurgau,3.64
+2021,Ticino,7.69
+2021,Vaud,7.12
+2021,Valais / Wallis,5.05
+2021,Neuchâtel,7.08
+2021,Genève,11.32
+2021,Jura,5.25
+2022,Zürich,3.66
+2022,Bern / Berne,2.82
+2022,Luzern,2.82
+2022,Uri,1.2
+2022,Schwyz,2.55
+2022,Obwalden,1.42
+2022,Nidwalden,2.54
+2022,Glarus,1.64
+2022,Zug,3.52
+2022,Fribourg / Freiburg,4.53
+2022,Solothurn,3.11
+2022,Basel-Stadt,4.85
+2022,Basel-Landschaft,4.24
+2022,Schaffhausen,3.92
+2022,Appenzell Ausserrhoden,3.2
+2022,St. Gallen,3.33
+2022,Graubünden / Grigioni / Grischun,2.14
+2022,Aargau,3.5
+2022,Thurgau,3.39
+2022,Ticino,6.84
+2022,Vaud,7.03
+2022,Valais / Wallis,4.05
+2022,Neuchâtel,6.11
+2022,Genève,10.73
+2022,Jura,6.61
