@@ -428,8 +428,8 @@ st.markdown("""
         top: 0.8rem
     }
     h2 {
-        padding: 0;
-        margin-bottom: 25px
+        padding: 0 !important;
+        margin-bottom: 25px !important
     }
     </style>
 """, unsafe_allow_html=True)
