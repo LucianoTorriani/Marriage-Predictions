@@ -55,7 +55,7 @@ def load_model(file_path):
     return model
 
 try:
-    model = load_model('trained_stack_model.pkl')
+    model = load_model('trained_rf_model.pkl')
 except Exception as e:
     st.sidebar.error(f"Error loading model: {e}")
 
