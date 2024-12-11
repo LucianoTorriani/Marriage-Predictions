@@ -121,7 +121,8 @@ if st.button('Predict Marriages'):
     try:
         prediction = model.predict(user_input)
         round = int(np.ceil(prediction[0]))
-        st.markdown(f'<h3>The predicted number of marriages in two years from now for {canton} in the age group {age_group} is:</h3> <h2>{round}</h2>', unsafe_allow_html=True)
+        st.subheading(f'The predicted number of marriages in two years from now for {canton} in the age group {age_group} is:')
+        st.markdown(f'<h1>{round}</h1>', unsafe_allow_html=True)
     except Exception as e:
         st.error(f"Prediction error: {e}")
 
