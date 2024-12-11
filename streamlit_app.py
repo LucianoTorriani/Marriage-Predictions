@@ -120,7 +120,8 @@ st.title("Union Insights")
 if st.button('Predict Marriages'):
     try:
         prediction = model.predict(user_input)
-        st.subheader(f"The predicted number of marriages in two years from now for {canton} in the age group {age_group} is: {prediction[0]:.2f}")
+        round = int(np.ceil(prediction[0]))
+        st.markdown(f"<h3>The predicted number of marriages in two years from now for {canton} in the age group {age_group} is:</h2> <h1>{round}</h2>")
     except Exception as e:
         st.error(f"Prediction error: {e}")
 
@@ -426,6 +427,9 @@ st.markdown("""
     }
     .st-emotion-cache-15ecox0{
         top: 1rem
+    }
+    .st-emotion-cache-hzo1qh{
+        top: 0.8rem
     }
     </style>
 """, unsafe_allow_html=True)
