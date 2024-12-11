@@ -121,7 +121,7 @@ if st.button('Predict Marriages'):
     try:
         prediction = model.predict(user_input)
         round = int(np.ceil(prediction[0]))
-        st.markdown(f"<h3>The predicted number of marriages in two years from now for {canton} in the age group {age_group} is:</h2> <h1>{round}</h2>")
+        st.markdown(f"<h3>The predicted number of marriages in two years from now for {canton} in the age group {age_group} is:</h2> <h1>{round}</h2>", unsafe_allow_html=True)
     except Exception as e:
         st.error(f"Prediction error: {e}")
 
@@ -176,11 +176,6 @@ view_option_wedding_distribution = st.sidebar.radio(
     options=["By Age Group", "By Canton", "Both"],
     key="view_option_wedding_distribution"
 )
-
-# Display selected options
-st.write(f"Selected Cantons: {selected_cantons}")
-st.write(f"Selected Age Groups: {selected_age_groups}")
-st.write(f"Selected Chart Type: {graph_type}")
 
 # Filter data based on selected options
 filtered_data = data[
