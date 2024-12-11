@@ -118,13 +118,9 @@ user_input = user_input_features()
 st.title("Union Insights")
 
 if st.button('Predict Marriages'):
-    st.subheader(user_input)
     try:
         prediction = model.predict(user_input)
-        print(prediction)
-        print(user_input)
-        user_input.head()
-        st.subheader(f"The predicted number of marriages for {canton} in the age group {age_group} is: {prediction[0]:.2f}")
+        st.subheader(f"The predicted number of marriages in two years from now for {canton} in the age group {age_group} is: {prediction[0]:.2f}")
     except Exception as e:
         st.error(f"Prediction error: {e}")
 
