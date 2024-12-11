@@ -35,8 +35,8 @@ def show_main_content():
 
     # Configuration of a sidebar with filters and options to improve interactivity and customisation of the app, suitable for different analysis scenarios.
     # Logo in the sidebar and main bar to enhance the visual identity of the app.
-    LOGO_LARGE = "logo lungo 2.png"  # Logo in the sidebar
-    LOGO_ICON = "logo lungo 2.png"      # Logo in the main bar
+    LOGO_LARGE = "logo lungo 2.jpeg"  # Logo in the sidebar
+    LOGO_ICON = "logo lungo 2.jpeg"      # Logo in the main bar
     st.logo(
         image=LOGO_LARGE,  
         icon_image=LOGO_ICON,  
